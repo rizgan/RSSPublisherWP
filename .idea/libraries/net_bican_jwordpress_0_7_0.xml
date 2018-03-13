@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="net.bican:jwordpress:0.7.0" type="repository">
+    <properties maven-id="net.bican:jwordpress:0.7.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/bican/jwordpress/0.7.0/jwordpress-0.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/redstone/xmlrpc/xmlrpc/1.1.1/xmlrpc-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.8/commons-configuration-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.16/lombok-1.16.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
