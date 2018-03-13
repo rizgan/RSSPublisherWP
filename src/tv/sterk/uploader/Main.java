@@ -83,7 +83,7 @@ public class Main {
         final TermFilter filter = new TermFilter();
         filter.setSearch("kuzey");
         List<Term> terms = wp.getTerms("category", filter);
-        System.out.println("0000000000000000000000" + terms.get(0) + "0000000000000000000000");
+        System.out.println("---" + terms.get(0) + "---");
     }
 
     public static void main(String[] args) throws Exception {
