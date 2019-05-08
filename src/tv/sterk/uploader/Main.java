@@ -114,7 +114,7 @@ public class Main {
 
         String articleTitleText = articleTitlePlace.text().replace("ANF | ", "");
         String articleImageUrl = articleImagePlace.absUrl("src").replace("https", "http");
-        String articleText = articleTextPlace.html();
+        String articleText = articleTextPlace.html().replace("<div style=\"width: 100%;height: 0;padding-bottom: 56.25%\">", "");
 
         Taxonomy c = wp.getTaxonomy("post_tag");
 //        System.out.printf(c.getCap().getEdit_terms() + "");
